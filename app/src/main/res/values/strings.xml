@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Common_intent</string>
+    <string name="url_phone_number_email">url|phone number|email</string>
+</resources>
